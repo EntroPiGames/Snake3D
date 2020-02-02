@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca6b25f94e978c54fb5d414332bcb477
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_OutlineShader: {fileID: 4800000, guid: c1f3269f59086674d876a4a76d9105fc, type: 3}
+  - m_StencilMaskShader: {fileID: 4800000, guid: 881c7ad59a48a1647bb002feb1c4a99b,
+      type: 3}
+  - m_MeshOveride: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

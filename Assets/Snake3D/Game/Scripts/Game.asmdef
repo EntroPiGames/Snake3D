@@ -1,0 +1,17 @@
+{
+    "name": "Game",
+    "references": [
+        "Unity.TextMeshPro",
+        "Core",
+        "WorldGrid",
+        "Player"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

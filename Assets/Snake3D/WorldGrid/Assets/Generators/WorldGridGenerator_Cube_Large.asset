@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77954d68754238a4e862cf36d6004e2e, type: 3}
+  m_Name: WorldGridGenerator_Cube_Large
+  m_EditorClassIdentifier: 
+  m_PlayerPrefKey: CubeLarge
+  m_WalkableNodePrefab: {fileID: 9141460982991407824, guid: 589c734186a5a0141970532fd4075e4a,
+    type: 3}
+  m_SurfaceNodePrefab: {fileID: 9141460982991407824, guid: 743f297a1bf4af74082ce4c52b75aa61,
+    type: 3}
+  m_GridSize: 11
+  m_ObstacleDensity: 0.33
+  m_ObstaclePattern: 0
+  m_MinimumPlayerStartClearance: 3

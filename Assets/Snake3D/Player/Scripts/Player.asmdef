@@ -1,0 +1,15 @@
+{
+    "name": "Player",
+    "references": [
+        "Core",
+        "WorldGrid"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
