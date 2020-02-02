@@ -20,10 +20,10 @@ namespace Snake3D.Game
         private float m_CameraSpeed = 0.5f;
 
         [Header("Player Feedback")]
-        [SerializeField]
+        [SerializeField, RequiredReference]
         private CameraShakeConfiguration m_HeavyShakeConfiguration = default;
 
-        [SerializeField]
+        [SerializeField, RequiredReference]
         private CameraShakeConfiguration m_LightShakeConfiguration = default;
 
         private Coroutine m_CameraRotationRoutine;
