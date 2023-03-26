@@ -1,4 +1,7 @@
 # Snake3D
+
+![Snake3D](https://user-images.githubusercontent.com/45169553/227773679-ebe1bdf5-ff38-4bb6-a7c2-57f8674a29dd.png)
+
 A simple 3D snake game with a minimal voxel art style
  
 ## Getting Started
